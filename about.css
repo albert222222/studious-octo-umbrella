@@ -1,0 +1,44 @@
+body{
+  margin:0;
+  background-color:#e4e3e3;
+  color:#393e46;
+}
+.navbar{
+  position:absolute;
+  left:1000px;
+  top:30px;
+}
+ul{
+  padding:0;
+  list-style-type: none;
+  font-size: 20px;
+}
+li,a{
+  padding-left:20px;
+  text-decoration: none;
+  color:black;
+  font-family: 'Oswald', sans-serif;
+  display:inline;
+}
+.top{
+  font-family: 'Fjalla One', sans-serif;
+  position:absolute;
+  top:70px;
+  left:200px;
+  font-size:70px;
+  padding-right: 770px;
+}
+hr{
+  width:10%;
+  margin-left: 210px;
+  margin-top: 420px;
+}
+.bottom{
+  font-size:23px;
+  padding-right: 550px;
+  position :absolute;
+  top:450px;
+  left:200px;
+  font-family: 'Nunito', sans-serif;
+
+}

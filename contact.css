@@ -1,0 +1,40 @@
+body{
+margin:0;
+}
+.hello{
+  text-decoration: none;
+  padding:70px;
+  text-align: center;
+  font-size: 50px;
+  color:#1E5162;
+  position:absolute;
+  top:180px;
+  left:500px;
+}
+img{
+  height:100%;
+  width:100%;
+}
+.image{
+  position:absolute;
+  top:120px;
+  height:565px;
+  width:1362px;
+}
+.navbar{
+  position:absolute;
+  left:1000px;
+  top:30px;
+}
+ul{
+  padding:0;
+  list-style-type: none;
+  font-size: 20px;
+}
+li,a{
+  padding-left:20px;
+  text-decoration: none;
+  color:#8AC7DB;
+  font-family: 'Oswald', sans-serif;
+  display:inline;
+}
